@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{font-size:17px;}
+
+.hotline h2 {
+   font-size: 1.75em;  
+}
+.hotline ul {
+    font-size: 1.063em;
+}
+.hotline ul li span {
+	font-size: 1.375em
+}
